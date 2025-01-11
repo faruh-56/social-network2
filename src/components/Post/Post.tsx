@@ -95,7 +95,7 @@ export const Post = () => {
           />
         </svg>
       </div>
-      <svg
+      {/* <svg
         className="icon icon-more"
         viewBox="0 0 25 5"
         xmlns="http://www.w3.org/2000/svg"
@@ -105,7 +105,7 @@ export const Post = () => {
           <circle id="ellipse_2" cx="12.5" cy="2.5" r="2.5" />
           <circle id="ellipse_3" cx="2.5" cy="2.5" r="2.5" />
         </g>
-      </svg>
+      </svg> */}
     </div>
   )
 }
